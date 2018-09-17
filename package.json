@@ -1,0 +1,16 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "Creating a Simple gh-page Front Page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Kevin Patterson",
+  "license": "MIT",
+  "homepage": "https://CodeKaliber.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
